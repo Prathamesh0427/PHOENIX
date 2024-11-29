@@ -12,7 +12,7 @@ export default function Header() {
           <img
             src="https://mma.prnewswire.com/media/1654936/Phoenix_Logo.jpg?p=facebook"
             alt="Logo"
-            style={{ height: "60px", width: "60px" }}
+            style={{ height: "60px", width: "60px", mix-blend-mode: darken }}
           />  
         </Link>
         <h1 className="text-6xl  sm:inline font-fgsemibold font-bold tracking-wide text-[#F16128] hover:text-black transition-colors duration-300">PHOENIX</h1>
